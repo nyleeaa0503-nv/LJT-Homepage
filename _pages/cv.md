@@ -11,35 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Computer Science** (2024–Present)  
+  *Hong Kong University of Science and Technology (HKUST)*  
+  Advisor: Prof. Junxian He  
+  Research: Natural language processing, machine learning, LLM truthfulness and reasoning
+
+* **B.Eng.** (2020–2024)  
+  *Shanghai Jiao Tong University (SJTU)*  
+  Graduated with honors; recipient of Zhiyuan Honor Scholarship
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Intern** (February 2025 – Present)  
+  *MINIMAX*  
+  Working on large language model reasoning and verifiable data synthesis.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Intern** (June 2024 – September 2024)  
+  *Tencent WXG*  
+  Advised by Zifei Shan; focused on vision‑language models for chart understanding.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* **Research Intern** (June 2023 – December 2023)  
+  *Shanghai AI Lab*  
+  Advised by Prof. Yu Cheng; worked on truthfulness hyperplanes in large language models.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Natural Language Processing**  
+  LLM reasoning, hallucination mitigation, truthfulness, interpretability, evaluation
+
+* **Machine Learning**  
+  Deep learning, reinforcement learning, model fine‑tuning, parameter‑efficient methods
+
+* **Programming & Tools**  
+  Python, PyTorch, Git, LaTeX, Jupyter, Linux
+
+* **Languages**  
+  Chinese (native), English (fluent)
 
 Publications
 ======
@@ -61,4 +68,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for conferences: EMNLP 2024, ICML 2024, NeurIPS 2024
+* Open‑source contributor to several NLP projects
