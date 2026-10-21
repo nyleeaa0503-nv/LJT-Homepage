@@ -29,33 +29,38 @@ My research focuses on natural language processing and machine learning, with sp
 * Hallucination in Vision-Language Models (VLM)
 * LLM Truthfulness and Interpretability
 
+## Skills
+
+* Natural Language Processing
+* Machine Learning
+
 ## Publications
 
-* [**SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**](/publication/2025-01-01-synlogic)
+* [**SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**](https://nyleeaa0503-nv.github.io/LJT-Homepage/publication/2025-01-01-synlogic)
   <br>*Junteng Liu*, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
   <br>arXiv preprint, 2025
 
-* [**On the Perception Bottleneck of VLMs for Chart Understanding**](/publication/2025-01-01-perception-bottleneck-vlms)
+* [**On the Perception Bottleneck of VLMs for Chart Understanding**](https://nyleeaa0503-nv.github.io/LJT-Homepage/publication/2025-01-01-perception-bottleneck-vlms)
   <br>*Junteng Liu*, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
   <br>arXiv preprint, 2025
 
-* [**On the Universal Truthfulness Hyperplane Inside LLMs**](/publication/2024-01-01-universal-truthfulness-hyperplane)
+* [**On the Universal Truthfulness Hyperplane Inside LLMs**](https://nyleeaa0503-nv.github.io/LJT-Homepage/publication/2024-01-01-universal-truthfulness-hyperplane)
   <br>*Junteng Liu*, Shiqi Chen, Yu Cheng, Junxian He
   <br>EMNLP 2024
 
-* [**In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**](/publication/2024-01-01-in-context-sharpness)
+* [**In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**](https://nyleeaa0503-nv.github.io/LJT-Homepage/publication/2024-01-01-in-context-sharpness)
   <br>Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
   <br>ICML 2024
 
-* [**C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**](/publication/2023-01-01-ceval)
+* [**C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**](https://nyleeaa0503-nv.github.io/LJT-Homepage/publication/2023-06-01-ceval)
   <br>Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He
   <br>NeurIPS 2023
 
-* [**Composing Parameter-Efficient Modules with Arithmetic Operations**](/publication/2023-01-01-composing-parameter-efficient-modules)
+* [**Composing Parameter-Efficient Modules with Arithmetic Operations**](https://nyleeaa0503-nv.github.io/LJT-Homepage/publication/2023-01-01-composing-parameter-efficient-modules)
   <br>Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He
   <br>NeurIPS 2023
 
-For more details, see the [Publications](/publications/) page.
+For more details, see the [Publications](https://nyleeaa0503-nv.github.io/LJT-Homepage/publications/) page.
 
 ## Contact
 
